@@ -9,6 +9,9 @@
   <project path="src/third_party/coreboot"
            name="chromiumos/third_party/coreboot"
            revision="refs/heads/chromeos-2016.05" />
+  <project path="src/third_party/arm-trusted-firmware"
+           name="chromiumos/third_party/arm-trusted-firmware"
+           revision="refs/heads/master" />
   <project path="src/platform/depthcharge"
            name="chromiumos/platform/depthcharge" />
   <project path="src/platform/vboot_reference"
