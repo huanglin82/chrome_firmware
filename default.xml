@@ -21,6 +21,9 @@
   <project path="build_firmware"
            name="build_chrome_firmware"
            remote="build_firmware" />
+  <project path="gcc-linaro-6.3.1"
+           name="gcc-linaro-6.3.1"
+           remote="build_firmware" />
 
 </manifest>
 
